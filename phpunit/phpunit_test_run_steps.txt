@@ -1,0 +1,19 @@
+Step-01:
+Open VS Code
+
+Step-02:
+Open the desired folder "phpunit" in the VS Code
+
+Step-03:
+Open User.php [app>Models>User.php]
+Open UserTest.php [test>unit>UserTest.php]
+
+Step-04:
+Open CMD
+
+Step-05:
+Type "cd path_of_phpunit"
+
+Step-06:
+Run the testing by typing:
+.\vendor\bin\phpunit
